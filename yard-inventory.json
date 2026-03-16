@@ -1,0 +1,195 @@
+{
+  "feed_name": "Whats In The Yard",
+  "inventory_date": "2026-02-11",
+  "generated_at": "2026-02-11T08:00:00-05:00",
+  "disclaimer": "Available quantities subject to change. Sold on a first come, first served basis.",
+  "contact": {
+    "company": "Custom Container Solutions",
+    "phone_display": "(570) 524-7835",
+    "phone_link": "tel:5705247835",
+    "website": "https://www.customcontainersolutions.com"
+  },
+  "summary": {
+    "front_load_total": 402,
+    "rear_side_total": 72,
+    "roll_off_total": 136,
+    "grand_total": 610
+  },
+  "categories": [
+    {
+      "name": "Front Load Containers",
+      "slug": "front-load",
+      "total_qty": 402,
+      "rows": [
+        {
+          "container_type": "Front Load",
+          "display_type": "2CY Front Load",
+          "item_code": "2CY-FEL1-HI-HYBRID-JBK",
+          "description": "2CY Front Load High Hybrid (Jet Black)",
+          "available_qty": 61
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "3CY Front Load",
+          "item_code": "3CY-FEL-HI-NSD-SD-JBK-SLL",
+          "description": "3CY Front Load High (w/ Lid Locks, Jet Black)",
+          "available_qty": 3
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "4CY Front Load",
+          "item_code": "4CY-FEL1-SL-NSD-HD-JBK",
+          "description": "4CY Front Load Slant (Heavy Duty, Jet Black)",
+          "available_qty": 6
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "4CY Front Load",
+          "item_code": "4CY-FEL1-SL-NSD-SD-CCR",
+          "description": "4CY Front Load Slant (Coca Cola Red)",
+          "available_qty": 11
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "4CY Front Load",
+          "item_code": "4CY-FEL1-SL-NSD-SD-JBK",
+          "description": "4CY Front Load Slant (Jet Black)",
+          "available_qty": 53
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "6CY Front Load",
+          "item_code": "6CY-FEL1-SL-PSD-SD-JBK",
+          "description": "6CY Front Load Slant (w/ Side Door, Jet Black)",
+          "available_qty": 133
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "8CY Front Load",
+          "item_code": "8CY-FEL1-SL-PSD-SD-JBK",
+          "description": "8CY Front Load Slant (Heavy Duty, w/ Side Door, w/ Lid Locks, Jet Black)",
+          "available_qty": 28
+        },
+        {
+          "container_type": "Front Load",
+          "display_type": "10CY Front Load",
+          "item_code": "10CY-FEL1-HI-PSD-HD-JBK",
+          "description": "10CY Front Load High (w/ Side Door, w/ Lid Locks, Heavy Duty, Jet Black)",
+          "available_qty": 13
+        }
+      ]
+    },
+    {
+      "name": "Rear Load / Side Load Containers",
+      "slug": "rear-side-load",
+      "total_qty": 72,
+      "rows": [
+        {
+          "container_type": "Rear Load",
+          "display_type": "1CY Rear Load",
+          "item_code": "1CY-REL-ST-SD-NSD-CP1-T775W-JBK",
+          "description": "1CY Rear Load Straight (Trunnion Bar 77.5 w/ Washer, Jet Black)",
+          "available_qty": 1
+        },
+        {
+          "container_type": "Rear Load",
+          "display_type": "1.5CY Rear Load",
+          "item_code": "1.5CY-REL-ST-NSD-SD-VDG",
+          "description": "1.5CY Rear Load (Dark Green)",
+          "available_qty": 3
+        },
+        {
+          "container_type": "Rear Load",
+          "display_type": "2CY Rear Load",
+          "item_code": "2CY-REL-ST-SD-NSD-CP1-T80NW-JBK",
+          "description": "2CY Rear Load Straight (Trunnion Bar 80, Jet Black)",
+          "available_qty": 16
+        },
+        {
+          "container_type": "Rear Load",
+          "display_type": "3CY Rear Load",
+          "item_code": "3CY-REL-SP-SD-NSD-CP1-T80NW-JBK",
+          "description": "3CY Rear Load Slope (Trunnion Bar 80, Jet Black)",
+          "available_qty": 8
+        },
+        {
+          "container_type": "Rear Load",
+          "display_type": "4CY Rear Load",
+          "item_code": "4CY-REL-SP-SD-NSD-T80NW-VUG",
+          "description": "4CY Rear Load Slope (Trunnion Bar 80, Valley USA Green)",
+          "available_qty": 11
+        },
+        {
+          "container_type": "Rear Load",
+          "display_type": "6CY Rear Load",
+          "item_code": "6CY-REL-SP-NE-NSD-T80NW-VSG",
+          "description": "6CY Rear Load Slope (Trunnion Bar 80, Safety Green)",
+          "available_qty": 13
+        },
+        {
+          "container_type": "Side Load",
+          "display_type": "4CY Side Load",
+          "item_code": "4CY-HI-TRUX-MKG",
+          "description": "4CY High Truxmore (Green)",
+          "available_qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Roll Off Containers",
+      "slug": "roll-off",
+      "total_qty": 136,
+      "rows": [
+        {
+          "container_type": "Roll Off",
+          "display_type": "13CY Change Up",
+          "item_code": "13CY-11S-51I-CHU-CUP-COAST-JBK",
+          "description": "13CY CHANGE UP, 11' Skid Length (Not Standard Spec - See Rep, Jet Black)",
+          "available_qty": 11
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "20CY REC",
+          "item_code": "20CY-22S-41I-REC-CAB-SD-VDS-HIPRF-VPB",
+          "description": "20CY REC, 22' Skid Length (Cable Hookup, Hip Roof, Vertical Latch System-Down, Pepsi Blue)",
+          "available_qty": 4
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "30CY Channel Rolloff",
+          "item_code": "30CY-22S-61I-CHL-CAB-HD-CCP-SLS-JBK",
+          "description": "30CY Channel Rolloff, 22' Skid Length (Cable Hookup, Cohen Crash Plate, Slam Latch System, Heavy Duty, Jet Black)",
+          "available_qty": 45
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "30CY Channel Rolloff",
+          "item_code": "30CY-22S-61I-CHL-CAB-HD-DP3-CCP-SLS-BSG",
+          "description": "30CY Channel Rolloff, 22' Skid Length (Cable Hookup, Cohen Crash Plate, Decal Plate, Slam Latch System, Heavy Duty, Battleship Gray)",
+          "available_qty": 10
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "30CY REC",
+          "item_code": "30CY-22S-61I-REC-CAB-SD-VUS-ROX",
+          "description": "30CY REC, 22' Skid Length (Cable Hookup, Vertical Latch System-Up, Primer - Choose Your Color)",
+          "available_qty": 10
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "30CY REC",
+          "item_code": "30CY-22S-61I-REC-CAB-VUS-CCP-DP2-IWS-IWS",
+          "description": "30CY REC, 22' Skid Length (Cable Hookup, Vertical Latch System-Up, Cohen Crash Plate, Decal Plate, Green)",
+          "available_qty": 14
+        },
+        {
+          "container_type": "Roll Off",
+          "display_type": "40CY Tub",
+          "item_code": "40CY-22S-84I-TUB-CAB-SD-VUS-VPB",
+          "description": "40CY Tub, 22' Skid Length (Cable Hookup, Vertical Latch System-Up, Pepsi Blue)",
+          "available_qty": 4
+        }
+      ]
+    }
+  ]
+}
