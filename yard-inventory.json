@@ -1,7 +1,7 @@
 {
   "feed_name": "Whats In The Yard",
-  "inventory_date": "2026-03-16",
-  "generated_at": "2026-03-16T19:28:55-04:00",
+  "inventory_date": "2026-03-17",
+  "generated_at": "2026-03-17T15:04:55-04:00",
   "disclaimer": "Available quantities subject to change. Sold on a first come, first served basis.",
   "contact": {
     "company": "Custom Container Solutions",
@@ -10,73 +10,17 @@
     "website": "https://www.customcontainersolutions.com"
   },
   "summary": {
-    "front_load_total": 402,
+    "front_load_total": 234,
     "rear_side_total": 72,
-    "roll_off_total": 141,
-    "grand_total": 615
+    "roll_off_total": 134,
+    "grand_total": 440
   },
   "categories": [
     {
       "name": "Front Load Containers",
       "slug": "front-load",
-      "total_qty": 402,
+      "total_qty": 234,
       "rows": [
-        {
-          "container_type": "Front Load",
-          "display_type": "2CY Front Load",
-          "item_code": "2CY-FEL1-HI-HYBRID-JBK",
-          "description": "2CY Font Load High Hybrid (Jet Black)",
-          "available_qty": 61
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "3CY Front Load",
-          "item_code": "3CY-FEL-HI-NSD-SD-JBK-SLL",
-          "description": "3CY Front Load High (w/ Lid Locks, Jet Black)",
-          "available_qty": 3
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "4CY Front Load",
-          "item_code": "4CY-FEL1-SL-NSD-HD-JBK",
-          "description": "4CY Front Load Slant (Heavy Duty, Jet Black)",
-          "available_qty": 6
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "4CY Front Load",
-          "item_code": "4CY-FEL1-SL-NSD-SD-CCR",
-          "description": "4CY Front Load Slant (Coca Cola Red)",
-          "available_qty": 11
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "4CY Front Load",
-          "item_code": "4CY-FEL1-SL-NSD-SD-JBK",
-          "description": "4CY Front Load Slant (Jet Black)",
-          "available_qty": 53
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "4CY Front Load",
-          "item_code": "4CY-FEL1-SL-NSD-SD-SLL-BSG",
-          "description": "4CY Front Load Slant (w/ Lid Locks, Battleship Gray)",
-          "available_qty": 25
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "6CY Front Load",
-          "item_code": "6CY-FEL-SL-NSD-HD-SLL-RPB-VDG",
-          "description": "6CY Front Load Slant (Heavy Duty, w/ Lid Locks, Dark Green)",
-          "available_qty": 3
-        },
-        {
-          "container_type": "Front Load",
-          "display_type": "6CY Front Load",
-          "item_code": "6CY-FEL1-HI-PSD-SD-PWY",
-          "description": "6CY Front Load High (w/ Side Door, Yellow)",
-          "available_qty": 6
-        },
         {
           "container_type": "Front Load",
           "display_type": "6CY Front Load",
@@ -229,7 +173,7 @@
     {
       "name": "Roll Off Containers",
       "slug": "roll-off",
-      "total_qty": 141,
+      "total_qty": 134,
       "rows": [
         {
           "container_type": "Roll Off",
@@ -279,34 +223,6 @@
           "item_code": "20CY-14S-64I-CHL-CAB-SD-JDG",
           "description": "20CY Channel Rolloff, 14' Skid Length (Cable Hookup, John Deere Green)",
           "available_qty": 2
-        },
-        {
-          "container_type": "Roll Off",
-          "display_type": "20CY Channel Rolloff",
-          "item_code": "20CY-14S-64I-CHL-H54-SD-SLS-JBK",
-          "description": "20CY Channel Rolloff, 14' Skid Length (Hooklift 54\", Slam Latch System, Jet Black)",
-          "available_qty": 1
-        },
-        {
-          "container_type": "Roll Off",
-          "display_type": "20CY REC",
-          "item_code": "20CY-22S-41I-REC-CAB-SD-JBK",
-          "description": "20CY REC, 22' Skid Length (Cable Hookup, Jet Black)",
-          "available_qty": 1
-        },
-        {
-          "container_type": "Roll Off",
-          "display_type": "20CY REC",
-          "item_code": "20CY-22S-41I-REC-CAB-SD-VDS-HIPRF-VPB",
-          "description": "20CY REC, 22' Skid Length (Cable Hookup, Hip Roof, Vertical Latch System-Down, Pepsi Blue)",
-          "available_qty": 4
-        },
-        {
-          "container_type": "Roll Off",
-          "display_type": "20CY REC",
-          "item_code": "20CY-22S-41I-REC-H54-SD-JBK",
-          "description": "20CY REC, 22' Skid Length (w/ 54\" Hookup, Jet Black)",
-          "available_qty": 1
         },
         {
           "container_type": "Roll Off",
