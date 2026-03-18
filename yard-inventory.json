@@ -20,7 +20,7 @@
       "name": "Front Load Containers",
       "slug": "front-load",
       "total_qty": 402,
-      "rows_html": "<strong>2CY-FEL1-HI-HYBRID-JBK | 61</strong><br>2CY Front Load High Hybrid (Jet Black)<br><hr style=\"border:none;border-top:1px solid #e5e7eb;margin:10px 0;\"><strong>3CY-FEL-HI-NSD-SD-JBK-SLL | 3</strong><br>3CY Front Load High (w/ Lid Locks, Jet Black)"
+      "rows_html": "<div style=\"font-size:15px;line-height:21px;font-weight:700;color:#111111;\">2CY Front Load High Hybrid (Jet Black)</div><div style=\"font-size:13px;line-height:18px;color:#111111;\">2CY-FEL1-HI-HYBRID-JBK</div><div style=\"font-size:13px;line-height:18px;color:#111111;\"><strong>Stock: 61</strong></div><br><div style=\"font-size:15px;line-height:21px;font-weight:700;color:#111111;\">3CY Front Load High (w/ Lid Locks, Jet Black)</div><div style=\"font-size:13px;line-height:18px;color:#111111;\">3CY-FEL-HI-NSD-SD-JBK-SLL</div><div style=\"font-size:13px;line-height:18px;color:#111111;\"><strong>Stock: 3</strong></div>"
     }
   ]
 }
